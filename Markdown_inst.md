@@ -27,9 +27,14 @@
 
 ## Ссылки
 
-[label](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository)
+* [Насторйка репозитория](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository)
+* [Сохранение изменений](https://www.atlassian.com/ru/git/tutorials/saving-changes)
+* [Проверка репозитория](https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository)
+* [Отмена изменений](https://www.atlassian.com/ru/git/tutorials/undoing-changes)
 ## Работа с таблицами
 
 ## Цитаты
 
 ## Заключение
+
+## Конфликт
